@@ -1,2 +1,2 @@
 13-symbolic_link
-ln -sf /bin/ls __
+ln -sf /bin/ls __ls__ 
