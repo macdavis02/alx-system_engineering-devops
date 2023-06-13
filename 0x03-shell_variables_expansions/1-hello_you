@@ -1,2 +1,2 @@
-#!/bin/bashi
-alias ls = "rm *"
+#!/bin/bash
+echo "hello $USER
